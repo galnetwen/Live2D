@@ -1,4 +1,4 @@
-原项目出自一个大佬的博客，猫与向日葵。[阅读原文](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02 "阅读原文")  
+原项目出自一个大佬的博客，猫与向日葵。[阅读原文](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02 "阅读原文")  
 本文对于原文和原作有删改。  
 
 嘛，不少人对这个 Live2D 看板娘很感兴趣呢！
@@ -71,7 +71,7 @@
 注意路径别弄错了噢 ~  
 PHP 程序推荐使用主题函数获取绝对路径。
 
-**问：“为什么这个 Live2D 没有换装功能哎？”**
+**问：“为什么这个 Live2D 没有换装功能哎？”**  
 **答：“自己研究去。”**
   
 ~~其实，就是动态改变 model.json 内的服装字段，达到随机服装的效果……~~
