@@ -1,5 +1,5 @@
-原文出自一个大佬的博客，猫与向日葵。[阅读原文](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02 "阅读原文")  
-本文对于原文有删改。  
+原项目出自一个大佬的博客，猫与向日葵。[阅读原文](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02 "阅读原文")  
+本文对于原文和原作有删改。  
 
 嘛，不少人对这个 Live2D 看板娘很感兴趣呢！
 纷纷让我写文章，而学长也是懒癌晚期，一直拖到现在 ~
@@ -77,7 +77,7 @@ PHP 程序推荐使用主题函数获取绝对路径。
 ~~其实，就是动态改变 model.json 内的服装字段，达到随机服装的效果……~~
 
 ### 模型欣赏
-![](https://haremu.com/wp-content/uploads/2017/12/QQ%E6%88%AA%E5%9B%BE20171202210923.png)
+![](https://haremu.com/wp-content/uploads/2017/12/QQ%E6%88%AA%E5%9B%BE20171202210923.png)  
 ![](https://haremu.com/wp-content/uploads/2017/12/QQ%E6%88%AA%E5%9B%BE20171202210951.png)
 
 ### 模型说明
@@ -86,7 +86,7 @@ PHP 程序推荐使用主题函数获取绝对路径。
 这是一个需要消耗大量时间精力的过程，因此质量好的模型并不多，质量好的也一般是在游戏中，版权受到保护，**不能随意使用**。
 
 本文章中所用模型解包自 [药水制作师](https://play.google.com/store/apps/details?id=com.sinsiroad.potionmaker&hl=zh_CN "药水制作师") 手机游戏，版权归该官方所有。  
-（没错，我也安利下这款 ~~萝莉控~~ 游戏。啪！）
+（没错，我也安利下这款 ~~萝莉控~~ 游戏。啪！）  
 ![](https://haremu.com/wp-content/uploads/2017/11/%E6%BB%91%E7%A8%BD%E6%89%93%E8%84%B8.png)
 
 ### 更新日志
