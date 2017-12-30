@@ -1,8 +1,5 @@
-<center>
-原文出自一个大佬的博客，猫与向日葵。[阅读原文](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02 "阅读原文")
-本文对于原文有删改。
-<br>
-</center>
+原文出自一个大佬的博客，猫与向日葵。[阅读原文](https://imjad.cn/archives/lab/add-dynamic-poster-girl-with-live2d-to-your-blog-02 "阅读原文")  
+本文对于原文有删改。  
 
 嘛，不少人对这个 Live2D 看板娘很感兴趣呢！
 纷纷让我写文章，而学长也是懒癌晚期，一直拖到现在 ~
@@ -80,10 +77,8 @@ PHP 程序推荐使用主题函数获取绝对路径。
 ~~其实，就是动态改变 model.json 内的服装字段，达到随机服装的效果……~~
 
 ### 模型欣赏
-<center>
 ![](https://haremu.com/wp-content/uploads/2017/12/QQ%E6%88%AA%E5%9B%BE20171202210923.png)
 ![](https://haremu.com/wp-content/uploads/2017/12/QQ%E6%88%AA%E5%9B%BE20171202210951.png)
-</center>
 
 ### 模型说明
 > Live2D 并不是一种先进的技术，它产生的效果，都是用基本的平移、旋转、透明、曲面变形等操作实现的。
